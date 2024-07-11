@@ -10,7 +10,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-Make sure you have Node.js and npm (or yarn) installed on your machine.
+Make sure you have Node.js and npm installed on your machine.
 
 - [Node.js](https://nodejs.org/) - Install Node.js to your machine.
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) - Choose one package manager for JavaScript.
