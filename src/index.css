@@ -155,11 +155,12 @@ form {
 .save-button, .edit-button{
   width: 50px;
     height: 2.5rem;
-    background: #ff6f47;
+    background: #3498db;
     color: white;
     cursor: pointer;
     border: none;
 }
+
 
 .plus-button {
   pointer-events: none;
