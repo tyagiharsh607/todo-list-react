@@ -216,16 +216,8 @@ form {
            height: 2rem;
     }
 
+    .todo-input{
+      font-size: 1rem;
+    }
 }
-/* @media screen and (max-width:500px){
 
-  .save-button,.edit-button,.trash-button, .checked-button{
-      width: 30px;
-      height: 2rem;
-    }
-    .todo-div {
-           font-size: 10px;
-           height: 2rem;
-    }
-
-} */
