@@ -127,7 +127,7 @@ form {
   color: black;
   padding: 10px;
   height: 2.5rem;
-  min-width: 200px;
+  /* min-width: 200px; */
   width: calc(100% - 100px);
   border: none;
 }
@@ -196,5 +196,19 @@ form {
     font-size: 1rem;
 
   }
+  .container-div{
+    transform: scale(0.7);
+  
+  }
+
+}
+
+
+@media screen and (max-width:600px){
+
+  .container-div {
+      transform: scale(0.5);
+  
+    }
 
 }
