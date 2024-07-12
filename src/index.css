@@ -202,7 +202,7 @@ form {
   
   } */
      .todo-div {
-       font-size: 15px;
+       font-size: 20px;
      }
 
 }
@@ -211,11 +211,11 @@ form {
 @media screen and (max-width:600px){
 
   .save-button,.edit-button,.trash-button, .checked-button{
-      width: 40px;
+      width: 35px;
       height: 2rem;
     }
     .todo-div {
-           font-size: 12px;
+           font-size: 15px;
            height: 2rem;
     }
 
@@ -223,11 +223,11 @@ form {
 @media screen and (max-width:500px){
 
   .save-button,.edit-button,.trash-button, .checked-button{
-      width: 35px;
+      width: 30px;
       height: 2rem;
     }
     .todo-div {
-           font-size: 10px;
+           font-size: 12px;
            height: 2rem;
     }
 
