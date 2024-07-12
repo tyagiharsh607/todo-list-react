@@ -217,7 +217,7 @@ form {
     }
 
 }
-@media screen and (max-width:500px){
+/* @media screen and (max-width:500px){
 
   .save-button,.edit-button,.trash-button, .checked-button{
       width: 30px;
@@ -228,4 +228,4 @@ form {
            height: 2rem;
     }
 
-}
+} */
