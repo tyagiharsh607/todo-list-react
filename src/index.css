@@ -197,10 +197,7 @@ form {
     font-size: 1rem;
 
   }
-  /* .container-div{
-    transform: scale(0.7);
-  
-  } */
+ 
      .todo-div {
        font-size: 20px;
      }
@@ -227,7 +224,7 @@ form {
       height: 2rem;
     }
     .todo-div {
-           font-size: 15px;
+           font-size: 12px;
            height: 2rem;
     }
 
